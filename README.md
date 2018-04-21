@@ -1,7 +1,7 @@
 # Parent Breadcrumb Category v1.0 #
 For Open Cart 2.3.0.2 &amp; 3.0.2.0
 
-For a list of improvements & fixes, see the [changelog](changelog.md).
+For a list of improvements & fixes, see the [changelog](CHANGELOG.md).
 
 
 Features
