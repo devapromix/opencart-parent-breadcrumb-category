@@ -49,7 +49,7 @@ Tested in PHP 7.2+
 You do not need to clone this repository to utilize the plugin, all you have to do is download the
 [zip file](./../../releases).
 
-You can also download it from the [Open Cart Marketplace](https://www.opencart.com/).
+You can also download it from the [Open Cart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=33870).
 
 I included the source in this repository for those who like to review the codebase prior to using new code.
 
